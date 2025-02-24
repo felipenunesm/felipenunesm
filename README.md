@@ -8,8 +8,7 @@
 
 ## 🔗 Connect with me
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40">](https://www.linkedin.com/in/felipe-nunes-de-moura-967011291/) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40">](https://www.instagram.com/_felipenunesm/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30">](https://www.linkedin.com/in/felipe-nunes-de-moura-967011291/)  [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30">](https://www.instagram.com/_felipenunesm/)
 
 
 
