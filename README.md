@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @felipenunesm!  
+- 👋 Hi, I’m @felipenunesm!
+- 🔭 I’m currently working as a **Senior Data Analyst**.  
 - 👀 I’m passionate about data culture and everything related to it.  
 - 🌱 I’m currently learning Python, HTML, and CSS to expand my skills.  
 - 💞️ I want to collaborate on data dissemination, mainly using Power BI to transform information into valuable insights.  
