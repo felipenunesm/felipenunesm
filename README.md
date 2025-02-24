@@ -28,7 +28,49 @@ I am constantly seeking to improve processes and drive data-driven decision-maki
 
 
 ##  Skills 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="30"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Pages.png" width="40"> <img src="https://avatars.githubusercontent.com/u/72559606?s=200&v=4" width="40"> <img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="40"> <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" width="40"> 
+  <a href="https://www.python.org/" target="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target=" ">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40">
+</a>
+<a href="https://pandas.pydata.org/" target=" ">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40">
+</a>
+<a href="https://www.mysql.com/" target=" ">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40">
+</a>
+<a href="https://www.oracle.com/database/" target=" ">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40">
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server/" target=" ">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40">
+</a>
+<a href="https://azure.microsoft.com/" target=" ">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40">
+</a>
+<a href="https://www.figma.com/" target=" ">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40">
+</a>
+<a href="https://powerbi.microsoft.com/" target=" ">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="30">
+</a>
+<a href="https://powerpages.microsoft.com/" target=" ">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Pages.png" width="40">
+</a>
+<a href="https://www.qlik.com/pt-br" target=" ">
+  <img src="https://avatars.githubusercontent.com/u/72559606?s=200&v=4" width="40">
+</a>
+<a href="https://www.databricks.com/br" target=" ">
+  <img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="40">
+</a>
+<a href="https://www.tableau.com/pt-br" target=" ">
+  <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" width="40">
+</a>
+
 
 <!---
 felipenunesm/felipenunesm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
