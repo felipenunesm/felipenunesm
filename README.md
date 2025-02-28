@@ -1,14 +1,15 @@
-- 👋 Hi, I’m @felipenunesm!
+- 👋 Hi, I’m Felipe!
 - 🔭 I’m currently working as a **Senior Data Analyst**.  
 - 👀 I’m passionate about data culture and everything related to it.  
-- 🌱 I’m currently learning Python, HTML, and CSS to expand my skills.  
+- 🌱 I’m currently learning Python for machine learn, HTML, and CSS.  
 - 💞️ I want to collaborate on data dissemination, mainly using Power BI to transform information into valuable insights.  
-- 📫 You can reach me at: felipemoura2021@outlook.com.br  
+- 📫 You can reach me at felipemoura2021@outlook.com.br or on my social media.
+- 🗂️ You can follow the evolution of my portfolio at: <a href="https://sites.google.com/view/felipenunesmoura/apresenta%C3%A7%C3%A3o">My Portfolio</a>.  
 - ⚡ Fun fact: When I’m not studying, I’m competing in **Assetto Corsa Competizione Online**! 🚗💨  
 
 ## 🔗 Connect with me
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30">](https://www.linkedin.com/in/felipe-nunes-de-moura-967011291/)  [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30">](https://www.instagram.com/_felipenunesm/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30">](https://www.linkedin.com/in/felipe-nunes-de-moura-967011291/)   [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="26">](https://www.instagram.com/_felipenunesm/)
 
 
 
@@ -27,49 +28,21 @@ My experience also includes creating advanced reports and dashboards in Power BI
 I am constantly seeking to improve processes and drive data-driven decision-making, ensuring efficiency and innovation in the solutions I implement.
 
 
-##  Skills 
-  <a href="https://www.python.org/" target="">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target=" ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40">
-</a>
-<a href="https://pandas.pydata.org/" target=" ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40">
-</a>
-<a href="https://www.mysql.com/" target=" ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40">
-</a>
-<a href="https://www.oracle.com/database/" target=" ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40">
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server/" target=" ">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40">
-</a>
-<a href="https://azure.microsoft.com/" target=" ">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40">
-</a>
-<a href="https://www.figma.com/" target=" ">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40">
-</a>
-<a href="https://powerbi.microsoft.com/" target=" ">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="30">
-</a>
-<a href="https://powerpages.microsoft.com/" target=" ">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Pages.png" width="40">
-</a>
-<a href="https://www.qlik.com/pt-br" target=" ">
-  <img src="https://avatars.githubusercontent.com/u/72559606?s=200&v=4" width="40">
-</a>
-<a href="https://www.databricks.com/br" target=" ">
-  <img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="40">
-</a>
-<a href="https://www.tableau.com/pt-br" target=" ">
-  <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" width="40">
-</a>
+##  Languages and Tools
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"></a>
+<a href="https://www.oracle.com/database/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"></a>
+<a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"></a>
+<a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"></a>
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="30"></a>
+<a href="https://powerpages.microsoft.com/"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Pages.png" width="40"></a>
+<a href="https://www.qlik.com/pt-br"><img src="https://avatars.githubusercontent.com/u/72559606?s=200&v=4" width="40"></a>
+<a href="https://www.databricks.com/br"><img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" width="40"></a>
+<a href="https://www.tableau.com/pt-br"><img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" width="40"></a>
 
 
 <!---
